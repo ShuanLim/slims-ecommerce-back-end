@@ -11,7 +11,7 @@
 
 ## Description
 
-An e-commerce website's backend application utilizing Express.js, MySQL, & Sequelize as the ORM for the SQL models. This app uses REST API routes to make requests and make updates to and from the database.
+An e-commerce website's backend application utilizing Express.js, MySQL, & Sequelize as the ORM for the SQL models. This app uses REST API routes to make requests and make updates to the database.
 
 ## User Story
 
