@@ -39,7 +39,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation Method
 
-Run the following commands prior to using the application:
+Run through the following instructions prior to using the application:
 
 - Please clone this repository or copy the code to your development environment.
 - You must have Node.js and MySQL installed on your machine to use this application.
